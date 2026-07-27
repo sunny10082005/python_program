@@ -1,4 +1,4 @@
-a = 10
+a = 5
 b = 20
 
 print("Addition of a & b : " , a+b)

@@ -1,5 +1,5 @@
 dict1 = {}
-dict2 = {"name":"Parth" , "age" : 21}
+dict2 = {"name":"Sunny" , "age" : 21}
 dict3 = dict([("X",1),("Y",2)])
 dict4 = {1 : "One" , "Two" : 2}
 
@@ -11,7 +11,7 @@ print("Mixed Keys :",dict4)
 
 
 
-d = {"name" : "Parth" , "age" : 21 , "City" : "Jamnagar"}
+d = {"name" : "Sunny" , "age" : 21 , "City" : "Jamnagar"}
 
 print("Original Dictionary :",d)
 print("Length :",len(d))

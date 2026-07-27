@@ -1,5 +1,5 @@
 def is_palindrome(s):
     return s == s[::-1]
 
-print(is_palindrome("madam"))
-print(is_palindrome("nayan"))
+print(is_palindrome("sumit"))
+print(is_palindrome("mitesh"))

@@ -30,7 +30,7 @@ a = "TY"
 b = y + a
 print(b)
 
-Name = "Chavda Parth"
+Name = "Sharma Sunny"
 age = 20
 txt = f"My name is {Name} and age is {age}"
 print(txt)

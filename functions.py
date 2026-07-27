@@ -1,5 +1,5 @@
 def student_detail():
-    name = "Parth"
+    name = "Sunny"
     age = 21
     course = "BCA"
     return name , age , course
